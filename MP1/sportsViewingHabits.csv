@@ -1,18 +1,18 @@
-"Timestamp","What is your age?","What is your academic year?","Major(Check multiple if applicable)","Are you a student-athlete?","What sport do you watch most often?","When do you most often watch sports?","Where do you most often watch sports?","Why do you watch this sport most often?","Why do you usually watch sports at that time?","Why do you usually watch sports in that location?","How many hours per week do you watch sports?","Do you follow sports primarily for entertainment or competition?"
-"2026/01/26 3:56:10 PM EST","21","Junior","Exercise Science","Yes","Baseball (MLB)","Weekend evenings","In a dorm / apartment","I played this sport","Fits my schedule","Most comfortable","3–5","Both equally"
-"2026/02/01 9:50:22 PM EST","21","Junior","Chemistry","Yes","Basketball (NBA or College)","Weekend evenings","At a friend’s place","I follow a specific team or athletes","Fits my schedule","Social environment","11–15","Both equally"
-"2026/02/01 9:50:38 PM EST","21","Senior","Accounting/Finance","Yes","Baseball (MLB)","Weekend afternoons","In a dorm / apartment","I played this sport","Games are usually on then","Most comfortable","3–5","Entertainment"
-"2026/02/01 9:51:15 PM EST","21","Junior","Communications","Yes","Football (NFL or College)","Weekend afternoons","At the stadium / arena","I follow a specific team or athletes","Fits my schedule","Social environment","6–10","Competition"
-"2026/02/01 9:51:19 PM EST","21","Senior","Finance","Yes","Basketball (NBA or College)","Weekend evenings","At a friend’s place","Social activity with friends","Games are usually on then","Social environment","0–2","Entertainment"
-"2026/02/01 9:51:45 PM EST","21","Junior","Economics","Yes","Baseball (MLB)","Late night","At a friend’s place","I grew up watching it","Friends are available then","Social environment","0–2","Both equally"
-"2026/02/01 9:52:10 PM EST","22+","Graduate or 5th Year","Finance","Yes","Basketball (NBA or College)","Weekend afternoons","At home","Entertainment / relaxation","Games are usually on then","Easy access","16+","Both equally"
-"2026/02/01 9:54:22 PM EST","18","Freshman","Dual Degree Engineering","Yes","Football (NFL or College)","Weekend evenings","At a friend’s place","I grew up watching it","Games are usually on then","Social environment","6–10","Entertainment"
-"2026/02/01 9:54:44 PM EST","22","Senior","Exercise Science","Yes","Football (NFL or College)","Weekend afternoons","In a dorm / apartment","I played this sport","Best time to relax","Easy access","11–15","Both equally"
-"2026/02/01 9:54:51 PM EST","21","Junior","Biology","No","Hockey","Weekend evenings","In a dorm / apartment","I grew up watching it","Fits my schedule","Most comfortable","6–10","Both equally"
-"2026/02/01 9:55:15 PM EST","20","Sophomore","Biology","Yes","Baseball (MLB)","Weekend evenings","In a dorm / apartment","I played this sport","Games are usually on then","Easy access","6–10","Both equally"
-"2026/02/01 10:06:52 PM EST","22","Senior","Finance","Yes","Football (NFL or College)","Weekend evenings","At a friend’s place","Social activity with friends","Games are usually on then","Best viewing experience","3–5","Both equally"
-"2026/02/01 10:16:01 PM EST","18","Freshman","Accounting","Yes","Basketball (NBA or College)","Weekday evenings","In a dorm / apartment","I follow a specific team or athletes","Games are usually on then","Easy access","6–10","Both equally"
-"2026/02/01 10:17:59 PM EST","20","Junior","Data Analytics;Finance","Yes","Football (NFL or College)","Weekend evenings","At a friend’s place","Entertainment / relaxation","Friends are available then","Most comfortable","6–10","Entertainment"
-"2026/02/01 11:12:40 PM EST","20","Sophomore","Accounting;Finance","Yes","Football (NFL or College)","Weekend afternoons","At a friend’s place","I grew up watching it","Best time to relax","Most comfortable","0–2","Entertainment"
-"2026/02/01 11:27:07 PM EST","20","Junior","Marketing","Yes","Baseball (MLB)","Weekend evenings","At home","I played this sport","Fits my schedule","Most comfortable","0–2","Entertainment"
-"2026/02/02 9:58:51 AM EST","21","Senior","Accounting;Finance","Yes","Baseball (MLB)","Weekend afternoons","In a dorm / apartment","I follow a specific team or athletes","Best time to relax","Most comfortable","3–5","Both equally"
+age,academic_year,major,student_athlete,sport,when,where,why,why_time,why_location,hours,entertainment_competition
+21,Junior,Exercise Science,Yes,Baseball (MLB),Weekend evenings,In a dorm / apartment,I played this sport,Fits my schedule,Most comfortable,3–5,Both equally
+21,Junior,Chemistry,Yes,Basketball (NBA or College),Weekend evenings,At a friend’s place,I follow a specific team or athletes,Fits my schedule,Social environment,11–15,Both equally
+21,Senior,Accounting/Finance,Yes,Baseball (MLB),Weekend afternoons,In a dorm / apartment,I played this sport,Games are usually on then,Most comfortable,3–5,Entertainment
+21,Junior,Communications,Yes,Football (NFL or College),Weekend afternoons,At the stadium / arena,I follow a specific team or athletes,Fits my schedule,Social environment,6–10,Competition
+21,Senior,Finance,Yes,Basketball (NBA or College),Weekend evenings,At a friend’s place,Social activity with friends,Games are usually on then,Social environment,0–2,Entertainment
+21,Junior,Economics,Yes,Baseball (MLB),Late night,At a friend’s place,I grew up watching it,Friends are available then,Social environment,0–2,Both equally
+22+,Graduate or 5th Year,Finance,Yes,Basketball (NBA or College),Weekend afternoons,At home,Entertainment / relaxation,Games are usually on then,Easy access,16+,Both equally
+18,Freshman,Dual Degree Engineering,Yes,Football (NFL or College),Weekend evenings,At a friend’s place,I grew up watching it,Games are usually on then,Social environment,6–10,Entertainment
+22,Senior,Exercise Science,Yes,Football (NFL or College),Weekend afternoons,In a dorm / apartment,I played this sport,Best time to relax,Easy access,11–15,Both equally
+21,Junior,Biology,No,Hockey,Weekend evenings,In a dorm / apartment,I grew up watching it,Fits my schedule,Most comfortable,6–10,Both equally
+20,Sophomore,Biology,Yes,Baseball (MLB),Weekend evenings,In a dorm / apartment,I played this sport,Games are usually on then,Easy access,6–10,Both equally
+22,Senior,Finance,Yes,Football (NFL or College),Weekend evenings,At a friend’s place,Social activity with friends,Games are usually on then,Best viewing experience,3–5,Both equally
+18,Freshman,Accounting,Yes,Basketball (NBA or College),Weekday evenings,In a dorm / apartment,I follow a specific team or athletes,Games are usually on then,Easy access,6–10,Both equally
+20,Junior,Data Analytics/Finance,Yes,Football (NFL or College),Weekend evenings,At a friend’s place,Entertainment / relaxation,Friends are available then,Most comfortable,6–10,Entertainment
+20,Sophomore,Accounting/Finance,Yes,Football (NFL or College),Weekend afternoons,At a friend’s place,I grew up watching it,Best time to relax,Most comfortable,0–2,Entertainment
+20,Junior,Marketing,Yes,Baseball (MLB),Weekend evenings,At home,I played this sport,Fits my schedule,Most comfortable,0–2,Entertainment
+21,Senior,Accounting/Finance,Yes,Baseball (MLB),Weekend afternoons,In a dorm / apartment,I follow a specific team or athletes,Best time to relax,Most comfortable,3–5,Both equally
